@@ -111,7 +111,6 @@ Or work through `python/eda_and_preprocessing.ipynb` and
 
 ## Author
 
-Ashutosh Malhotra — BCom (Final Year) | QuickBooks ProAdvisor Online
-Certified | Forage Data Analytics (Deloitte) & GenAI/Data Analysis
-(Tata iQ) simulations
+Ashutosh Malhotra — Data Analyst | Forage Data Analytics (Deloitte) & GenAI/Data Analysis
+(Tata iQ) simulations | SQL | Python | PowerBI 
 [LinkedIn](https://www.linkedin.com/in/ashutosh-malhotra-810396327)
